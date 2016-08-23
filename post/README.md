@@ -1,7 +1,5 @@
-Rss订阅
-===========
 Up主投稿rss
-------
+===========
 uid后加用户id
 
 `http://query.zhihaofans.com/acfun/rss/post.php?uid=`
