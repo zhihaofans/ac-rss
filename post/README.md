@@ -1,7 +1,5 @@
 Up主投稿rss
 ===========
-uid后加用户id
-
 演示地址:
 
 `http://query.zhihaofans.com/acfun/rss/post.php?uid=`    (uid后加用户id)
